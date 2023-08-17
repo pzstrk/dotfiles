@@ -1,0 +1,14 @@
+[alias]
+	d = diff
+	co = checkout
+	st = status
+	br = branch
+	lg = log --oneline
+	ps = push origin head
+[user]
+	name = kamioka269
+	email = yudai.kamioka@weblio.co.jp
+[pager]
+	branch = false
+[core]
+	editor = nvim
