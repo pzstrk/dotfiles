@@ -1,0 +1,12 @@
+[alias]
+	d = diff
+	dn = diff --name-only main
+	co = checkout
+	st = status
+	br = branch
+	lg = log --oneline
+	ps = push origin head
+[pager]
+	branch = false
+[core]
+	editor = nvim
