@@ -1,0 +1,20 @@
+{
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.colorTheme": "Tokyo Night",
+  "[python]": {},
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "update.showReleaseNotes": false,
+  "eslint.quiet": true,
+  "editor.fontSize": 13,
+  "cSpell.userWords": [
+    "weblio",
+    "eikaiwa",
+    "dayts"
+  ],
+  "editor.formatOnSave": true
+}
